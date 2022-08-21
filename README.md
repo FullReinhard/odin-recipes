@@ -7,4 +7,9 @@ This project concerns the creation of a basic recipe website using various HTML 
 - create a website's front-end structure with headings, paragraphs, bolding and emphasis, as well as several links and images 
 - further my understanding of HTML and Git
 
+__08/21/22__
+
+I have added CSS to all of my webpages as a result of the new knowledge I gained.
+The pages don't look perfect, but they do look much better than the blank, black-on-white HTML-only pages I had before. 
+
 -FullReinhard
